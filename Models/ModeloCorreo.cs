@@ -1,6 +1,6 @@
 namespace ms_notificaciones.Models
 {
-    public class CorreoModel
+    public class ModeloCorreo
     {
         public string correoDestino { set; get; }
         public string nombreDestino { set; get; }
